@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = quimdenys@gmail.com
+	name = Quim De Nys
